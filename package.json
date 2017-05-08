@@ -1,0 +1,29 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "A collection of templates for the most-used JavaScript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuacerbito/js-patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "patterns",
+    "js",
+    "module",
+    "prototype",
+    "observer",
+    "singleton"
+  ],
+  "author": "Joshua Cerbito <josh@cerbito.com> (http://cerbito.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuacerbito/js-patterns/issues"
+  },
+  "homepage": "https://github.com/joshuacerbito/js-patterns#readme"
+}
